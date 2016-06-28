@@ -3,7 +3,7 @@ Let's all agree that Pixar's Inside Out is great! This at least what its IMDB ra
 
 I will here bring you just exactly that: A rank of movies on IMDB by how polarizing they are to people! 
 
-So clone the repository or head over to a live code instance on [binder](https://app.mybinder.org:80/2761384985/notebooks/Polarizing_imdb_movies.ipynb), and please let me know if you happen to watch any of the listed movies because of this.
+So clone the repository or head over to a live code instance on __[binder](http://mybinder.org/repo/keldLundgaard/Polarizing_movies)__, and please let me know if you happen to watch any of the listed movies because of this.
 
 Happy movie watching. 
 
