@@ -8,3 +8,5 @@ So clone the repository or head over to a live code instance on __[binder](http:
 Happy movie watching. 
 
 Keld
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/keldLundgaard/Polarizing_movies)
