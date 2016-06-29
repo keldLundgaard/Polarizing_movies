@@ -5,7 +5,7 @@ But then, there are those "love it or hate it" types of movies. Those movies can
 
 I will now present you with exactly that: a ranking of movies on IMDB by how polarizing they are to viewers.
 
-Open a live code instance on  __[binder](http://mybinder.org/repo/keldLundgaard/Polarizing_movies)__, see the static version on [www.keldlundgaard.com](http://www.keldlundgaard.com), clone this repository.
+Open a live code instance on  __[binder](http://mybinder.org/repo/keldLundgaard/Polarizing_movies)__, see the static version on [www.keldlundgaard.com](http://www.keldlundgaard.com), or clone this repository.
 
 Happy movie watching. 
 
